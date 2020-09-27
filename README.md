@@ -1,5 +1,5 @@
 # FontToPNG
-A Simple Font to \*.png Converter,
+A simple font to \*.png converter,
 written in Java-8
 
 # How to use:
